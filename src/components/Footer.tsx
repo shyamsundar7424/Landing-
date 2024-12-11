@@ -77,7 +77,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-gray-800 text-center sm:text-left">
           <p className="text-sm text-gray-400">
-            © {currentYear} ImageAI. All rights reserved.
+            © {currentYear} OneWorld. All rights reserved.
           </p>
         </div>
       </div>
