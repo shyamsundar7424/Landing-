@@ -3,32 +3,32 @@ import React from 'react';
 const examples = [
   {
     prompt: "A mystical forest at twilight with glowing mushrooms",
-    imageUrl: "https://source.unsplash.com/random/800x600?forest,mystical",
+    imageUrl: "https://image.lexica.art/full_jpg/14971a48-e221-4282-bfe4-0358e4ea00c1",
     style: "Fantasy Art"
   },
   {
     prompt: "Futuristic cityscape with flying vehicles",
-    imageUrl: "https://source.unsplash.com/random/800x600?city,future",
+    imageUrl: "https://image.lexica.art/full_jpg/8329e14f-c970-4e7d-97a6-a79a19b666d0",
     style: "Sci-fi"
   },
   {
     prompt: "Abstract fluid art in vibrant colors",
-    imageUrl: "https://source.unsplash.com/random/800x600?abstract,art",
+    imageUrl: "https://image.lexica.art/full_jpg/8329e14f-c970-4e7d-97a6-a79a19b666d0",
     style: "Abstract"
   },
   {
     prompt: "Portrait of a cyberpunk character",
-    imageUrl: "https://source.unsplash.com/random/800x600?cyberpunk,portrait",
+    imageUrl: "https://image.lexica.art/full_jpg/c723ec56-a66d-4bb2-b875-eeae3cd176da",
     style: "Character Art"
   },
   {
     prompt: "Serene Japanese garden in autumn",
-    imageUrl: "https://source.unsplash.com/random/800x600?garden,japanese",
+    imageUrl: "https://image.lexica.art/full_jpg/e22b5d74-8610-478e-becd-2f423287cfb5",
     style: "Landscape"
   },
   {
     prompt: "Steampunk mechanical creature",
-    imageUrl: "https://source.unsplash.com/random/800x600?steampunk,mechanical",
+    imageUrl: "https://image.lexica.art/full_jpg/c9acb634-0be8-48fc-ad9d-f1841d6d7632",
     style: "Concept Art"
   },
   {
